@@ -1,4 +1,4 @@
-# 
+# Nouveau JetBrains PyCharm extensions pour Mac OS | Élite JetBrains PyCharm extensions pour PC Windows. Avec minimap et plans de maintenance — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
